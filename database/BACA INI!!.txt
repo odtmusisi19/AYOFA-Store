@@ -1,0 +1,12 @@
+BACA INI!!
+
+create database dengan nama db_ogibox di phpmyadmin lalu import database yang ada di folder ini yang bernama db_ogibox
+
+brikut adalah akun yang telah saya buat, jika anda ingin membuat new akun anda tinggal sign up di aplikasi AYOFA
+
+	Email					Password
+	ogdarmatena@gmail.com	masuk123
+	arifrahman@gmail.com	masuk123
+	amruloh@gmail.com		masuk123
+	yusril@gmail.com		masuk123
+	papad@gmail.com		masuk123

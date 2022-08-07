@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.fikri-card-title{
+  display: none;
+}
+.fikri-card{
+  overflow: hidden;
+}
+.fikri-card-img{
+  opacity: 1;
+  transition: opacity 0.4s, transform 0.4s;
+  overflow: hidden;
+}
+.fikri-card-img:hover{
+  opacity: 0.6;
+}
+.fikri-card-img:hover + .fikri-card-title{
+  transition: all ease-in .3s;
+  display: block;
+  position: absolute;
+  margin-top: -80px;
+  cursor: auto;
+}
+.kartu{
+  border: 1px solid #424242; 
+  border-radius:16px; 
+  padding:0;
+}
